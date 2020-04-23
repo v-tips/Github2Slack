@@ -6,7 +6,7 @@ namespace Github2Slack
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("!!Hello Github to Slack !!");
         }
     }
 }
